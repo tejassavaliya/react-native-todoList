@@ -10,6 +10,7 @@ const Task = ({name}) => {
             </View>
             <View style={styles.circular}></View>
         </View>
+        
     )
 }
 
