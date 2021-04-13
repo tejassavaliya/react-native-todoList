@@ -22,7 +22,6 @@ export default function App() {
       <View style={styles.taskWrapper}>
         <Text style={styles.sectionTitle}>Today's Task</Text>
         <View style={styles.items}>
-
           {
             taskItems.map((item, index) => {
               return (
