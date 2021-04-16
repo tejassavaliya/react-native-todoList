@@ -5,13 +5,13 @@ Sample React Native Todo List application, You can just add the task.
 npm start
 
 # Run in Android 
-npm android
+npm run android
 
 # Run in IOS 
-npm ios
+npm run ios
 
 # Run in WEB 
-npm web
+npm run web
 
 ![Add the Todo Task ](./TodoList.gif)
 
